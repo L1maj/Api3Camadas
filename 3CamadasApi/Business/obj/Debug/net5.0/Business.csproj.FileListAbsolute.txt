@@ -1,0 +1,15 @@
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\bin\Debug\net5.0\Model.dll
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\bin\Debug\net5.0\Model.pdb
+C:\Users\Jota\Desktop\Projeto 3 camadas\3CamadasApi\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
